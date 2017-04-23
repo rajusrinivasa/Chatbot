@@ -1,0 +1,26 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot POC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajusrinivasa/Chatbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "sreenivasa raju k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajusrinivasa/Chatbot/issues"
+  },
+  "homepage": "https://github.com/rajusrinivasa/Chatbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
